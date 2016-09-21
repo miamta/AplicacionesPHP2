@@ -1,3 +1,4 @@
 <?
- echo "hola juan"
+ $nombre="miguel"
+ echo ".nombre"
  ?>
