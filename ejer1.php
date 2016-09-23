@@ -1,4 +1,5 @@
-<?
- $nombre="miguel"
- echo ".nombre"
+<?php
+ echo="miguel"
+ echo="amores"
+ echo="tamarit"
  ?>
